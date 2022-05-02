@@ -1,0 +1,48 @@
+body{
+    background-image: url('./images/7-A-Bela-Adormecida-1959.jpg');
+    background-size: cover;
+    }
+
+
+.titulo{
+    text-align: center;
+    font-size: 60px;
+}
+
+.filmes{
+    text-align: center;
+    font-size: 60px;
+}
+
+.nome{
+    text-align: center;
+}
+
+.conteudo{
+
+    width: 1099px; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    font-size: 17px;
+}
+
+.lista{
+    text-align: center;
+    font-size: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.licao{
+    text-align: center;
+    font-size: 56px;
+}
+
+.dicas{
+    text-align: center;
+    font-size: 34px;
+}
